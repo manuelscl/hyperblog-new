@@ -106,9 +106,6 @@ body {
     color: white;
 }
 @media (max-width: 640px) {
-    #tagline {
-        font-size: 3rem;
-    }
     .h1__border {
         width: 12%;
         height: 6px;
